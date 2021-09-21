@@ -2,7 +2,7 @@
 //  BMI.swift
 //  BMI Calculator
 //
-//  Created by Tiago Teodoro on 05/02/2021.
+//  Created by Tiago Teodoro on 06/02/2021.
 //  Copyright © 2021 Angela Yu. All rights reserved.
 //
 

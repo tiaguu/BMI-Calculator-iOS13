@@ -32,7 +32,7 @@ class CalculateViewController: UIViewController {
     
     @IBAction func slideWeight(_ sender: UISlider) {
         let weightValue = String(format: "%.0f", sender.value)
-        weightLabel.text = "\(weightValue)Kg"
+        weightLabel.text = "\(weightValue)KG"
     }
     
     
